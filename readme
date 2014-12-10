@@ -1,0 +1,11 @@
+The script "ouput_abbylingvo_definitions_examples.py"
+Allows you to take a long list of russian words and output
+a file containing english translations and sample sentences in a format
+(tab-delimited) that can be easily imported to Anki.
+
+For 100 words, it took about 10 minutes, occasionally re-entering captchas
+at http://www.lingvo.ua/ru when necessary.
+
+Written in Python 2.7
+NON-STANDARD LIBRARIES: BeautifulSoup4
+
